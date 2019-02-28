@@ -9,27 +9,15 @@ Ingermanland is a historic region on the territory of Leningrad region to the so
 ```markdown
 The project is developed at the Department of Mathematical Linguistics of St.Petersburg University
 
-# Alexander S. Gerd
-## Founder of the Project
+# Founder of of the Project
+## Alexander S. Gerd 
 ### Honourable Professor of St.Petersburg University
+- born 1936
+- died 2016
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[http://topinger.phil.pu.ru](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IlyaNikolaev/ilyan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
