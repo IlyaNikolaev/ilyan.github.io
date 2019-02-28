@@ -1,17 +1,17 @@
 ## TopInger Project
 
-TpoInger is a database of place names of Ingermanland
+TopInger is a database of place names of Ingermanland
 
 ### Ingermanland
 
 Ingermanland is a historic region on the territory of Leningrad region to the south-west of St.Petersburg, Russia
 
 ```markdown
-The project is developed at the Deaprtment of Mathematical Linguistics of St.Petersburg University
+The project is developed at the Department of Mathematical Linguistics of St.Petersburg University
 
-# Header 1
-## Header 2
-### Header 3
+# Alexander S. Gerd
+## Founder of the Project
+### Honourable Professor of St.Petersburg University
 
 - Bulleted
 - List
