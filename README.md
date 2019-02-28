@@ -12,12 +12,11 @@ The project is developed at the Department of Mathematical Linguistics of St.Pet
 # Founder of of the Project
 ## Alexander S. Gerd 
 ### Honourable Professor of St.Petersburg University
-- born 1936
-- died 2016
 
 
 
-[http://topinger.phil.pu.ru](url) and ![Image](src)
+
+[http://topinger.phil.pu.ru](url)
 ```
 
 
